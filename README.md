@@ -12,9 +12,9 @@ https://github.com/google-research-datasets/Objectron
 https://arxiv.org/abs/2203.06566
 
 # Gesture creation
-https://github.com/amirbar/speech2gesture
-https://github.com/Ha0Tang/GestureGAN
-https://github.com/Svito-zar/gesticulator 
+- https://github.com/amirbar/speech2gesture
+- https://github.com/Ha0Tang/GestureGAN
+- https://github.com/Svito-zar/gesticulator 
 
 # Specializaed task specific transformers
 https://github.com/microsoft/xtreme-distil-transformers
@@ -34,8 +34,16 @@ https://github.com/speechbrain/speechbrain
 # Open Source LMs
 https://huggingface.co/bigscience/bloom
 
-- Text/NLP
-- Voice synthesis
+# Animation Synthesis
+https://github.com/simonalexanderson/StyleGestures
+
+# 3D Model Synthesis
+https://github.com/merrell42/model-synthesis
+https://github.com/threedle/text2mesh
+https://github.com/edward1997104/Neural-Template
+
+# Pose recognition
+https://github.com/mks0601/I2L-MeshNet_RELEASE
+https://github.com/navis-org/skeletor
+
 - Image synthesis
-- 3d model synthesis
-- animations synthesis
